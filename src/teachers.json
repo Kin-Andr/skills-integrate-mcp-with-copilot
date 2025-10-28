@@ -1,0 +1,12 @@
+{
+    "teachers": [
+        {
+            "username": "mr.smith",
+            "hashed_password": "$2b$12$HFgfGwPk/DRXEm/zjLR4puPKIPg0IgjxMrE6XdeyPQB4F.dg/VHcW"  
+        },
+        {
+            "username": "ms.jones", 
+            "hashed_password": "$2b$12$NqYj7Q8PoVZcwv6GQqQYyOZnIkSvq0I.9zn/ENUxpL.BKZZgHJvF6"
+        }
+    ]
+}
